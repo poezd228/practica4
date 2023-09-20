@@ -1,5 +1,4 @@
-
-public class Main {
+public class sumOfNum {
     static int num = 123456789;
     static int SumOfNum;
     public static int sum(int n){
@@ -16,6 +15,6 @@ public class Main {
 
 
 
-        }
-
     }
+
+}
